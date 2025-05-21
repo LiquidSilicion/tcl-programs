@@ -6,3 +6,4 @@ puts $b
 set a 5
 set b "foo {$a} bar"
 puts {$a}
+incr a
